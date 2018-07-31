@@ -3,7 +3,7 @@
 <node TEXT="Contents" FOLDED="false" ID="ID_122476755" CREATED="1532982557160" MODIFIED="1532982633180" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -78,7 +78,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#0000ff"/>
 <node FOLDED="true" ID="ID_1325641609" CREATED="1532982615711" MODIFIED="1532982615711" LINK="https://docs.python.org/3.7/tutorial/interpreter.html#invoking-the-interpreter"><richcontent TYPE="NODE">
@@ -95,7 +94,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1319727978" CREATED="1532982615712" MODIFIED="1532982615712" LINK="https://docs.python.org/3.7/tutorial/interpreter.html#argument-passing"><richcontent TYPE="NODE">
 
@@ -111,7 +109,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_621021569" CREATED="1532982615714" MODIFIED="1532982615714" LINK="https://docs.python.org/3.7/tutorial/interpreter.html#interactive-mode"><richcontent TYPE="NODE">
@@ -128,7 +125,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -146,7 +142,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_321368302" CREATED="1532982615717" MODIFIED="1532982615717" LINK="https://docs.python.org/3.7/tutorial/interpreter.html#source-code-encoding"><richcontent TYPE="NODE">
 
@@ -162,7 +157,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -181,7 +175,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#00ff00"/>
 <node ID="ID_818315111" CREATED="1532982615727" MODIFIED="1532982615727" LINK="https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator"><richcontent TYPE="NODE">
@@ -198,7 +191,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_219925543" CREATED="1532982615729" MODIFIED="1532982615729" LINK="https://docs.python.org/3.7/tutorial/introduction.html#numbers"><richcontent TYPE="NODE">
 
@@ -214,7 +206,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_218319921" CREATED="1532982615731" MODIFIED="1532983097593" LINK="https://docs.python.org/3.7/tutorial/introduction.html#strings" BACKGROUND_COLOR="#ffff33"><richcontent TYPE="NODE">
@@ -231,7 +222,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1074946038" CREATED="1532982615732" MODIFIED="1532983071669" LINK="https://docs.python.org/3.7/tutorial/introduction.html#lists" BACKGROUND_COLOR="#00ff33"><richcontent TYPE="NODE">
@@ -248,7 +238,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -266,7 +255,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -284,10 +272,9 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#ff00ff"/>
-<node ID="ID_175954894" CREATED="1532982615742" MODIFIED="1532982615742" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#if-statements"><richcontent TYPE="NODE">
+<node ID="ID_175954894" CREATED="1532982615742" MODIFIED="1533070208852" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#if-statements" BACKGROUND_COLOR="#00ff00"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -301,10 +288,9 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
-<node ID="ID_1083505488" CREATED="1532982615744" MODIFIED="1532982615744" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#for-statements"><richcontent TYPE="NODE">
+<node ID="ID_1083505488" CREATED="1532982615744" MODIFIED="1533070208857" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#for-statements" BACKGROUND_COLOR="#00ff00"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -318,10 +304,9 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
-<node ID="ID_753910525" CREATED="1532982615746" MODIFIED="1532982615746" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#the-range-function"><richcontent TYPE="NODE">
+<node ID="ID_753910525" CREATED="1532982615746" MODIFIED="1533070488331" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#the-range-function" BACKGROUND_COLOR="#00ff00"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -335,7 +320,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_674730522" CREATED="1532982615748" MODIFIED="1532982615748" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops"><richcontent TYPE="NODE">
@@ -352,7 +336,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1500851019" CREATED="1532982615750" MODIFIED="1532982615750" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#pass-statements"><richcontent TYPE="NODE">
@@ -369,7 +352,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1847547737" CREATED="1532982615751" MODIFIED="1532982615751" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#defining-functions"><richcontent TYPE="NODE">
@@ -386,7 +368,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node FOLDED="true" ID="ID_429562355" CREATED="1532982615753" MODIFIED="1532982615753" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions"><richcontent TYPE="NODE">
@@ -403,7 +384,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_11118487" CREATED="1532982615754" MODIFIED="1532982615754" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#default-argument-values"><richcontent TYPE="NODE">
 
@@ -419,7 +399,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_293116332" CREATED="1532982615756" MODIFIED="1532982615756" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#keyword-arguments"><richcontent TYPE="NODE">
@@ -436,7 +415,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_998744836" CREATED="1532982615757" MODIFIED="1532982615757" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#arbitrary-argument-lists"><richcontent TYPE="NODE">
@@ -453,7 +431,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1817288454" CREATED="1532982615759" MODIFIED="1532982615759" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#unpacking-argument-lists"><richcontent TYPE="NODE">
@@ -470,7 +447,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_673501725" CREATED="1532982615760" MODIFIED="1532982615760" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#lambda-expressions"><richcontent TYPE="NODE">
@@ -487,7 +463,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1354701806" CREATED="1532982615761" MODIFIED="1532982615761" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#documentation-strings"><richcontent TYPE="NODE">
@@ -504,7 +479,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_26034643" CREATED="1532982615762" MODIFIED="1532982615762" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#function-annotations"><richcontent TYPE="NODE">
@@ -521,7 +495,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -539,7 +512,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -557,7 +529,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#00ffff"/>
 <node FOLDED="true" ID="ID_209102955" CREATED="1532982615774" MODIFIED="1532982615774" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#more-on-lists"><richcontent TYPE="NODE">
@@ -574,7 +545,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1966704725" CREATED="1532982615775" MODIFIED="1532982615775" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#using-lists-as-stacks"><richcontent TYPE="NODE">
 
@@ -590,7 +560,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_254661082" CREATED="1532982615776" MODIFIED="1532982615776" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#using-lists-as-queues"><richcontent TYPE="NODE">
@@ -607,7 +576,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1570810059" CREATED="1532982615778" MODIFIED="1532982615778" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#list-comprehensions"><richcontent TYPE="NODE">
@@ -624,7 +592,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_96566636" CREATED="1532982615779" MODIFIED="1532982615779" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#nested-list-comprehensions"><richcontent TYPE="NODE">
@@ -641,7 +608,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -659,7 +625,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_867992043" CREATED="1532982615781" MODIFIED="1532982615781" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#tuples-and-sequences"><richcontent TYPE="NODE">
@@ -676,7 +641,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_827453400" CREATED="1532982615782" MODIFIED="1532982615782" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#sets"><richcontent TYPE="NODE">
@@ -693,7 +657,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1576435353" CREATED="1532982615784" MODIFIED="1532982615784" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#dictionaries"><richcontent TYPE="NODE">
@@ -710,7 +673,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_129684324" CREATED="1532982615785" MODIFIED="1532982615785" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#looping-techniques"><richcontent TYPE="NODE">
@@ -727,7 +689,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1931781234" CREATED="1532982615786" MODIFIED="1532982615786" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#more-on-conditions"><richcontent TYPE="NODE">
@@ -744,7 +705,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_539384161" CREATED="1532982615787" MODIFIED="1532982615787" LINK="https://docs.python.org/3.7/tutorial/datastructures.html#comparing-sequences-and-other-types"><richcontent TYPE="NODE">
@@ -761,7 +721,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -779,7 +738,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#7c0000"/>
 <node FOLDED="true" ID="ID_637665372" CREATED="1532982615795" MODIFIED="1532982615795" LINK="https://docs.python.org/3.7/tutorial/modules.html#more-on-modules"><richcontent TYPE="NODE">
@@ -796,7 +754,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_983961390" CREATED="1532982615796" MODIFIED="1532982615796" LINK="https://docs.python.org/3.7/tutorial/modules.html#executing-modules-as-scripts"><richcontent TYPE="NODE">
 
@@ -812,7 +769,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1866577068" CREATED="1532982615797" MODIFIED="1532982615797" LINK="https://docs.python.org/3.7/tutorial/modules.html#the-module-search-path"><richcontent TYPE="NODE">
@@ -829,7 +785,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1491307878" CREATED="1532982615798" MODIFIED="1532982615798" LINK="https://docs.python.org/3.7/tutorial/modules.html#compiled-python-files"><richcontent TYPE="NODE">
@@ -846,7 +801,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -864,7 +818,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_803881184" CREATED="1532982615801" MODIFIED="1532982615801" LINK="https://docs.python.org/3.7/tutorial/modules.html#the-dir-function"><richcontent TYPE="NODE">
@@ -881,7 +834,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node FOLDED="true" ID="ID_1803401010" CREATED="1532982615802" MODIFIED="1532982615802" LINK="https://docs.python.org/3.7/tutorial/modules.html#packages"><richcontent TYPE="NODE">
@@ -898,7 +850,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_968006463" CREATED="1532982615805" MODIFIED="1532982615805" LINK="https://docs.python.org/3.7/tutorial/modules.html#importing-from-a-package"><richcontent TYPE="NODE">
 
@@ -914,7 +865,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1069342655" CREATED="1532982615806" MODIFIED="1532982615806" LINK="https://docs.python.org/3.7/tutorial/modules.html#intra-package-references"><richcontent TYPE="NODE">
@@ -931,7 +881,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1722151170" CREATED="1532982615807" MODIFIED="1532982615807" LINK="https://docs.python.org/3.7/tutorial/modules.html#packages-in-multiple-directories"><richcontent TYPE="NODE">
@@ -948,7 +897,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -967,7 +915,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#00007c"/>
 <node FOLDED="true" ID="ID_1432151260" CREATED="1532982615814" MODIFIED="1532982615814" LINK="https://docs.python.org/3.7/tutorial/inputoutput.html#fancier-output-formatting"><richcontent TYPE="NODE">
@@ -984,7 +931,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_958510267" CREATED="1532982615815" MODIFIED="1532982615815" LINK="https://docs.python.org/3.7/tutorial/inputoutput.html#formatted-string-literals"><richcontent TYPE="NODE">
 
@@ -1000,7 +946,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_182138039" CREATED="1532982615816" MODIFIED="1532982615816" LINK="https://docs.python.org/3.7/tutorial/inputoutput.html#the-string-format-method"><richcontent TYPE="NODE">
@@ -1017,7 +962,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1571800360" CREATED="1532982615817" MODIFIED="1532982615817" LINK="https://docs.python.org/3.7/tutorial/inputoutput.html#manual-string-formatting"><richcontent TYPE="NODE">
@@ -1034,7 +978,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_83704871" CREATED="1532982615818" MODIFIED="1532982615818" LINK="https://docs.python.org/3.7/tutorial/inputoutput.html#old-string-formatting"><richcontent TYPE="NODE">
@@ -1051,7 +994,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1069,7 +1011,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_336935817" CREATED="1532982615820" MODIFIED="1532982615820" LINK="https://docs.python.org/3.7/tutorial/inputoutput.html#methods-of-file-objects"><richcontent TYPE="NODE">
 
@@ -1085,7 +1026,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1749385992" CREATED="1532982615821" MODIFIED="1532982615821" LINK="https://docs.python.org/3.7/tutorial/inputoutput.html#saving-structured-data-with-json"><richcontent TYPE="NODE">
@@ -1102,7 +1042,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1121,7 +1060,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#007c00"/>
 <node ID="ID_1770140806" CREATED="1532982615829" MODIFIED="1532982615829" LINK="https://docs.python.org/3.7/tutorial/classes.html#a-word-about-names-and-objects"><richcontent TYPE="NODE">
@@ -1138,7 +1076,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node FOLDED="true" ID="ID_1730454909" CREATED="1532982615829" MODIFIED="1532982615829" LINK="https://docs.python.org/3.7/tutorial/classes.html#python-scopes-and-namespaces"><richcontent TYPE="NODE">
@@ -1155,7 +1092,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1857037600" CREATED="1532982615830" MODIFIED="1532982615830" LINK="https://docs.python.org/3.7/tutorial/classes.html#scopes-and-namespaces-example"><richcontent TYPE="NODE">
 
@@ -1171,7 +1107,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1189,7 +1124,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1374472828" CREATED="1532982615831" MODIFIED="1532982615831" LINK="https://docs.python.org/3.7/tutorial/classes.html#class-definition-syntax"><richcontent TYPE="NODE">
 
@@ -1205,7 +1139,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_624363611" CREATED="1532982615832" MODIFIED="1532982615832" LINK="https://docs.python.org/3.7/tutorial/classes.html#class-objects"><richcontent TYPE="NODE">
@@ -1222,7 +1155,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1701145857" CREATED="1532982615833" MODIFIED="1532982615833" LINK="https://docs.python.org/3.7/tutorial/classes.html#instance-objects"><richcontent TYPE="NODE">
@@ -1239,7 +1171,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_140177764" CREATED="1532982615834" MODIFIED="1532982615834" LINK="https://docs.python.org/3.7/tutorial/classes.html#method-objects"><richcontent TYPE="NODE">
@@ -1256,7 +1187,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1669768047" CREATED="1532982615835" MODIFIED="1532982615835" LINK="https://docs.python.org/3.7/tutorial/classes.html#class-and-instance-variables"><richcontent TYPE="NODE">
@@ -1273,7 +1203,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1291,7 +1220,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node FOLDED="true" ID="ID_1742771167" CREATED="1532982615837" MODIFIED="1532982615837" LINK="https://docs.python.org/3.7/tutorial/classes.html#inheritance"><richcontent TYPE="NODE">
@@ -1308,7 +1236,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1065152446" CREATED="1532982615838" MODIFIED="1532982615838" LINK="https://docs.python.org/3.7/tutorial/classes.html#multiple-inheritance"><richcontent TYPE="NODE">
 
@@ -1324,7 +1251,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1342,7 +1268,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1761347385" CREATED="1532982615840" MODIFIED="1532982615840" LINK="https://docs.python.org/3.7/tutorial/classes.html#odds-and-ends"><richcontent TYPE="NODE">
@@ -1359,7 +1284,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1735176526" CREATED="1532982615841" MODIFIED="1532982615841" LINK="https://docs.python.org/3.7/tutorial/classes.html#iterators"><richcontent TYPE="NODE">
@@ -1376,7 +1300,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_252970116" CREATED="1532982615842" MODIFIED="1532982615842" LINK="https://docs.python.org/3.7/tutorial/classes.html#generators"><richcontent TYPE="NODE">
@@ -1393,7 +1316,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_260298662" CREATED="1532982615843" MODIFIED="1532982615843" LINK="https://docs.python.org/3.7/tutorial/classes.html#generator-expressions"><richcontent TYPE="NODE">
@@ -1410,7 +1332,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1428,7 +1349,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#7c007c"/>
 <node ID="ID_1065745473" CREATED="1532982615822" MODIFIED="1532982615822" LINK="https://docs.python.org/3.7/tutorial/errors.html#syntax-errors"><richcontent TYPE="NODE">
@@ -1445,7 +1365,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_807677584" CREATED="1532982615823" MODIFIED="1532982615823" LINK="https://docs.python.org/3.7/tutorial/errors.html#exceptions"><richcontent TYPE="NODE">
@@ -1462,7 +1381,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_505222412" CREATED="1532982615824" MODIFIED="1532982615824" LINK="https://docs.python.org/3.7/tutorial/errors.html#handling-exceptions"><richcontent TYPE="NODE">
@@ -1479,7 +1397,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1081270694" CREATED="1532982615825" MODIFIED="1532982615825" LINK="https://docs.python.org/3.7/tutorial/errors.html#raising-exceptions"><richcontent TYPE="NODE">
@@ -1496,7 +1413,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_562381982" CREATED="1532982615826" MODIFIED="1532982615826" LINK="https://docs.python.org/3.7/tutorial/errors.html#user-defined-exceptions"><richcontent TYPE="NODE">
@@ -1513,7 +1429,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1166548108" CREATED="1532982615827" MODIFIED="1532982615827" LINK="https://docs.python.org/3.7/tutorial/errors.html#defining-clean-up-actions"><richcontent TYPE="NODE">
@@ -1530,7 +1445,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_84440545" CREATED="1532982615827" MODIFIED="1532982615827" LINK="https://docs.python.org/3.7/tutorial/errors.html#predefined-clean-up-actions"><richcontent TYPE="NODE">
@@ -1547,7 +1461,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1565,7 +1478,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#007c7c"/>
 <node ID="ID_913708157" CREATED="1532982615856" MODIFIED="1532982615856" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#operating-system-interface"><richcontent TYPE="NODE">
@@ -1582,7 +1494,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1431680645" CREATED="1532982615857" MODIFIED="1532982615857" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#file-wildcards"><richcontent TYPE="NODE">
@@ -1599,7 +1510,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1963570908" CREATED="1532982615858" MODIFIED="1532982615858" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#command-line-arguments"><richcontent TYPE="NODE">
@@ -1616,7 +1526,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_782296427" CREATED="1532982615859" MODIFIED="1532982615859" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#error-output-redirection-and-program-termination"><richcontent TYPE="NODE">
@@ -1633,7 +1542,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_508671660" CREATED="1532982615860" MODIFIED="1532982615860" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#string-pattern-matching"><richcontent TYPE="NODE">
@@ -1650,7 +1558,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_747062973" CREATED="1532982615861" MODIFIED="1532982615861" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#mathematics"><richcontent TYPE="NODE">
@@ -1667,7 +1574,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_429868861" CREATED="1532982615862" MODIFIED="1532982615862" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#internet-access"><richcontent TYPE="NODE">
@@ -1684,7 +1590,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_851828932" CREATED="1532982615862" MODIFIED="1532982615862" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#dates-and-times"><richcontent TYPE="NODE">
@@ -1701,7 +1606,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1921433077" CREATED="1532982615864" MODIFIED="1532982615864" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#data-compression"><richcontent TYPE="NODE">
@@ -1718,7 +1622,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_481462779" CREATED="1532982615864" MODIFIED="1532982615864" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#performance-measurement"><richcontent TYPE="NODE">
@@ -1735,7 +1638,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_741580290" CREATED="1532982615865" MODIFIED="1532982615865" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#quality-control"><richcontent TYPE="NODE">
@@ -1752,7 +1654,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1654008257" CREATED="1532982615866" MODIFIED="1532982615866" LINK="https://docs.python.org/3.7/tutorial/stdlib.html#batteries-included"><richcontent TYPE="NODE">
@@ -1769,7 +1670,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1787,7 +1687,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#7c7c00"/>
 <node ID="ID_596623846" CREATED="1532982615880" MODIFIED="1532982615880" LINK="https://docs.python.org/3.7/tutorial/stdlib2.html#output-formatting"><richcontent TYPE="NODE">
@@ -1804,7 +1703,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1535653138" CREATED="1532982615881" MODIFIED="1532982615881" LINK="https://docs.python.org/3.7/tutorial/stdlib2.html#templating"><richcontent TYPE="NODE">
@@ -1821,7 +1719,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1345397555" CREATED="1532982615882" MODIFIED="1532982615882" LINK="https://docs.python.org/3.7/tutorial/stdlib2.html#working-with-binary-data-record-layouts"><richcontent TYPE="NODE">
@@ -1838,7 +1735,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1821712902" CREATED="1532982615883" MODIFIED="1532982615883" LINK="https://docs.python.org/3.7/tutorial/stdlib2.html#multi-threading"><richcontent TYPE="NODE">
@@ -1855,7 +1751,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1932851956" CREATED="1532982615884" MODIFIED="1532982615884" LINK="https://docs.python.org/3.7/tutorial/stdlib2.html#logging"><richcontent TYPE="NODE">
@@ -1872,7 +1767,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1147184402" CREATED="1532982615885" MODIFIED="1532982615885" LINK="https://docs.python.org/3.7/tutorial/stdlib2.html#weak-references"><richcontent TYPE="NODE">
@@ -1889,7 +1783,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1478246999" CREATED="1532982615886" MODIFIED="1532982615886" LINK="https://docs.python.org/3.7/tutorial/stdlib2.html#tools-for-working-with-lists"><richcontent TYPE="NODE">
@@ -1906,7 +1799,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1951079923" CREATED="1532982615887" MODIFIED="1532982615887" LINK="https://docs.python.org/3.7/tutorial/stdlib2.html#decimal-floating-point-arithmetic"><richcontent TYPE="NODE">
@@ -1923,7 +1815,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1941,7 +1832,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#ff0000"/>
 <node ID="ID_1422117818" CREATED="1532982615898" MODIFIED="1532982615898" LINK="https://docs.python.org/3.7/tutorial/venv.html#introduction"><richcontent TYPE="NODE">
@@ -1958,7 +1848,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1155697765" CREATED="1532982615899" MODIFIED="1532982615899" LINK="https://docs.python.org/3.7/tutorial/venv.html#creating-virtual-environments"><richcontent TYPE="NODE">
@@ -1975,7 +1864,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_960077375" CREATED="1532982615900" MODIFIED="1532982615900" LINK="https://docs.python.org/3.7/tutorial/venv.html#managing-packages-with-pip"><richcontent TYPE="NODE">
@@ -1992,7 +1880,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2010,7 +1897,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#00ff00"/>
 <node ID="ID_599511427" CREATED="1532982615912" MODIFIED="1532982615912" LINK="https://docs.python.org/3.7/tutorial/interactive.html#tab-completion-and-history-editing"><richcontent TYPE="NODE">
@@ -2027,7 +1913,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1258118748" CREATED="1532982615913" MODIFIED="1532982615913" LINK="https://docs.python.org/3.7/tutorial/interactive.html#alternatives-to-the-interactive-interpreter"><richcontent TYPE="NODE">
@@ -2044,7 +1929,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2062,7 +1946,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#ff00ff"/>
 <node ID="ID_326790647" CREATED="1532982615914" MODIFIED="1532982615914" LINK="https://docs.python.org/3.7/tutorial/floatingpoint.html#representation-error"><richcontent TYPE="NODE">
@@ -2079,7 +1962,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -2097,7 +1979,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#00ffff"/>
 <node FOLDED="true" ID="ID_1772782545" CREATED="1532982615920" MODIFIED="1532982615920" LINK="https://docs.python.org/3.7/tutorial/appendix.html#interactive-mode"><richcontent TYPE="NODE">
@@ -2114,7 +1995,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_621232596" CREATED="1532982615921" MODIFIED="1532982615921" LINK="https://docs.python.org/3.7/tutorial/appendix.html#error-handling"><richcontent TYPE="NODE">
 
@@ -2130,7 +2010,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1677552140" CREATED="1532982615922" MODIFIED="1532982615922" LINK="https://docs.python.org/3.7/tutorial/appendix.html#executable-python-scripts"><richcontent TYPE="NODE">
@@ -2147,7 +2026,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1516734467" CREATED="1532982615923" MODIFIED="1532982615923" LINK="https://docs.python.org/3.7/tutorial/appendix.html#the-interactive-startup-file"><richcontent TYPE="NODE">
@@ -2164,7 +2042,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1628007819" CREATED="1532982615924" MODIFIED="1532982615924" LINK="https://docs.python.org/3.7/tutorial/appendix.html#the-customization-modules"><richcontent TYPE="NODE">
@@ -2181,7 +2058,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
