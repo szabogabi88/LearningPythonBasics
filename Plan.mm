@@ -322,7 +322,7 @@
 </html>
 </richcontent>
 </node>
-<node ID="ID_674730522" CREATED="1532982615748" MODIFIED="1532982615748" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops"><richcontent TYPE="NODE">
+<node ID="ID_674730522" CREATED="1532982615748" MODIFIED="1533158412334" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops" BACKGROUND_COLOR="#00ff00"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -354,7 +354,7 @@
 </html>
 </richcontent>
 </node>
-<node ID="ID_1847547737" CREATED="1532982615751" MODIFIED="1532982615751" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#defining-functions"><richcontent TYPE="NODE">
+<node ID="ID_1847547737" CREATED="1532982615751" MODIFIED="1533159347983" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#defining-functions" BACKGROUND_COLOR="#00ff00"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -369,6 +369,9 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="how to &quot;reimport&quot; file &amp; func" ID="ID_1989527765" CREATED="1533159316330" MODIFIED="1533159340058">
+<icon BUILTIN="help"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_429562355" CREATED="1532982615753" MODIFIED="1532982615753" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions"><richcontent TYPE="NODE">
 
