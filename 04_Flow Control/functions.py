@@ -6,9 +6,19 @@ def fib(n):
 	a=0
 	b=1
 	while a<n:
+		print(a, end=' ')
 		temp=a
 		a=b
 		b=b+temp
-		print(a, end=' ')
 	print()
 
+def fibReturnedAsList(n):
+	result = []
+	a=0
+	b=1
+	while a<n:
+		result.append(a)
+		temp=a
+		a=b
+		b=temp+b
+	return result
