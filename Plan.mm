@@ -373,7 +373,7 @@
 <icon BUILTIN="help"/>
 </node>
 </node>
-<node FOLDED="true" ID="ID_429562355" CREATED="1532982615753" MODIFIED="1532982615753" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions"><richcontent TYPE="NODE">
+<node ID="ID_429562355" CREATED="1532982615753" MODIFIED="1532982615753" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#more-on-defining-functions"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -388,7 +388,7 @@
   </body>
 </html>
 </richcontent>
-<node ID="ID_11118487" CREATED="1532982615754" MODIFIED="1532982615754" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#default-argument-values"><richcontent TYPE="NODE">
+<node ID="ID_11118487" CREATED="1532982615754" MODIFIED="1533503885923" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#default-argument-values" BACKGROUND_COLOR="#00cc00"><richcontent TYPE="NODE">
 
 <html>
   <head>
