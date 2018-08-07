@@ -501,7 +501,7 @@
 </richcontent>
 </node>
 </node>
-<node ID="ID_821553136" CREATED="1532982615764" MODIFIED="1532982615764" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#intermezzo-coding-style"><richcontent TYPE="NODE">
+<node ID="ID_821553136" CREATED="1532982615764" MODIFIED="1533613376859" LINK="https://docs.python.org/3.7/tutorial/controlflow.html#intermezzo-coding-style" BACKGROUND_COLOR="#00ff00"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -516,6 +516,226 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="spaces" ID="ID_1229011817" CREATED="1533613190033" MODIFIED="1533613193528">
+<node TEXT="4-space" ID="ID_1002332675" CREATED="1533613079304" MODIFIED="1533613084546">
+<node ID="ID_181063056" CREATED="1533613074156" MODIFIED="1533613074156"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p class="first">
+          Use 4-space indentation, and no tabs.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_870822863" CREATED="1533613074156" MODIFIED="1533613074156"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p>
+          4 spaces are a good compromise between small indentation (allows greater nesting depth) and large indentation (easier to read). Tabs introduce confusion, and are best left out.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="like a = f(1, 2) + g(3, 4)" ID="ID_481050827" CREATED="1533613221904" MODIFIED="1533613238721">
+<node ID="ID_1142203719" CREATED="1533613074219" MODIFIED="1533613074219"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p class="first">
+          Use spaces around operators and after commas, but not directly inside bracketing constructs: <code class="docutils literal notranslate"><span class="pre">a</span> <span class="pre">=</span> <span class="pre">f(1,</span> <span class="pre">2)</span> <span class="pre">+</span> <span class="pre">g(3,</span> <span class="pre">4)</span></code>.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="79 char per line" ID="ID_873808545" CREATED="1533613099475" MODIFIED="1533613106963">
+<node ID="ID_532199648" CREATED="1533613074188" MODIFIED="1533613074188"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p class="first">
+          Wrap lines so that they don&#8217;t exceed 79 characters.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_359821113" CREATED="1533613074188" MODIFIED="1533613074188"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p>
+          This helps users with small displays and makes it possible to have several code files side-by-side on larger displays.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="blank lines between functions/classes/blocks" ID="ID_1586961297" CREATED="1533613132734" MODIFIED="1533613149380">
+<node ID="ID_1693097572" CREATED="1533613074203" MODIFIED="1533613074203"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p class="first">
+          Use blank lines to separate functions and classes, and larger blocks of code inside functions.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="comment in same line" ID="ID_751010013" CREATED="1533613157429" MODIFIED="1533613166415">
+<node ID="ID_377976998" CREATED="1533613074203" MODIFIED="1533613074203"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p class="first">
+          When possible, put comments on a line of their own.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="docstring" ID="ID_329520023" CREATED="1533613169270" MODIFIED="1533613171735">
+<node ID="ID_190434820" CREATED="1533613074203" MODIFIED="1533613074203"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p class="first">
+          Use docstrings.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="naming" ID="ID_1298970753" CREATED="1533613259297" MODIFIED="1533613261653">
+<node TEXT="" ID="ID_1764439947" CREATED="1533613311027" MODIFIED="1533613311027">
+<hook NAME="FirstGroupNode"/>
+</node>
+<node TEXT="MyClass" ID="ID_1126222599" CREATED="1533613264102" MODIFIED="1533613267768"/>
+<node TEXT="my_function" ID="ID_1692800989" CREATED="1533613270327" MODIFIED="1533613273899">
+<node TEXT="self_first_function" ID="ID_66581838" CREATED="1533613293664" MODIFIED="1533613308048"/>
+</node>
+<node TEXT="" ID="ID_843438547" CREATED="1533613311012" MODIFIED="1533613311027">
+<hook NAME="SummaryNode"/>
+<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="* Name your classes and functions consistently; the convention is to use CamelCase for classes and lower_case_with_underscores for functions and methods. Always use self as the name for the first method argument (see A First Look at Classes for more on classes and methods). &lt;https://docs.python.org/3.7/tutorial/classes.html#tut-firstclasses&gt;" ID="ID_93510502" CREATED="1533613311027" MODIFIED="1533613312197"/>
+</node>
+</node>
+<node TEXT="best:ASCII or UTF-8" ID="ID_362287917" CREATED="1533613329716" MODIFIED="1533613365050">
+<node ID="ID_836179616" CREATED="1533613074219" MODIFIED="1533613074219"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p class="first">
+          Don&#8217;t use fancy encodings if your code is meant to be used in international environments. Python&#8217;s default, UTF-8, or even plain ASCII work best in any case.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_377500768" CREATED="1533613074234" MODIFIED="1533613074234"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <p class="first">
+          Likewise, don&#8217;t use non-ASCII characters in identifiers if there is only the slightest chance people speaking a different language will read or maintain the code.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 <node FOLDED="true" POSITION="right" ID="ID_1901231595" CREATED="1532982615765" MODIFIED="1532982648060" LINK="https://docs.python.org/3.7/tutorial/datastructures.html"><richcontent TYPE="NODE">
